@@ -8,7 +8,7 @@ This contains two Python scripts to **automate grade extraction from Moodle’s 
 - Scrapes the VPL submissions table for grades.
 - Exports the grades and relevant details to a CSV file.
 
-## Features (student_grades_collector.py.py)
+## Features (student_grades_collector.py)
 - Connects to multiple Virtual Programming Lab (VPL) URLs.
 - Extracts student names and grades from Moodle tables.
 - Identifies students across different assignments.
