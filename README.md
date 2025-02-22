@@ -23,7 +23,3 @@ This contains two Python scripts to **automate grade extraction from Moodle’s 
 - The following Python libraries:
   - `requests`
   - `beautifulsoup4`
-
-Install the required libraries using:
-```bash
-pip install -r requirements.txt
